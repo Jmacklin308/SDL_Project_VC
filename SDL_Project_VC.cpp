@@ -46,6 +46,17 @@ int main(int argc, char* args[])
 		}
 	}
 
+
+
+
+	//while loop
+	while (true)
+	{
+		
+	}
+
+
+
 	//Destroy window
 	SDL_DestroyWindow(window);
 
